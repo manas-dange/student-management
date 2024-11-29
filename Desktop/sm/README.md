@@ -1,0 +1,1 @@
+This is project about student management this will help to admin for more specific with their student by addinf their details and this help to improve their dashboard by features using like adding and removeing the student there is so many more feature than this like you can search the student and you can check the number of student their in total
