@@ -44,7 +44,7 @@ while True:
 2. Display All Students
 3. Search Student
 4. Remove Student
-5. Total Number of Students
+5. Total Number of Student
 6. Exit""")
     enter = int(input("Enter what you want to do: "))
     
